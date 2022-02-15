@@ -1,0 +1,10 @@
+1,2,3
+awooga
+5,3,4
+HMMMBOOGA
+2,2,2
+RUBBADUBDUB
+-10,2,2
+this is a sentence.
+3,2,1
+ok bye.
